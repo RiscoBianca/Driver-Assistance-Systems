@@ -1,7 +1,8 @@
-# Driver Assistance Systems
+# 🚗 Driver Assistance Systems (ADAS)
 
-**Author:** Bianca Rișco  
-**Course:** Sisteme bazate pe Cunoaștere (SBC)
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C.svg)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8.svg)
 
 ## Project Summary
 This project develops an advanced **Driver Assistance System (ADAS)** that integrates **Deep Learning** for environment perception and a **Rule-Based System** for safety-critical decision-making. The system interprets road scenes at a pixel level to generate alerts such as "Emergency Brake" or "Lane Assist Warning".
