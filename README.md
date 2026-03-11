@@ -1,8 +1,6 @@
 # 🚗 Driver Assistance Systems (ADAS)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C.svg)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8.svg)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](#) [![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C.svg)](#) [![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8.svg)](#)
 
 ## Project Summary
 This project develops an advanced **Driver Assistance System (ADAS)** that integrates **Deep Learning** for environment perception and a **Rule-Based System** for safety-critical decision-making. The system interprets road scenes at a pixel level to generate alerts such as "Emergency Brake" or "Lane Assist Warning".
@@ -34,7 +32,7 @@ The system analyzes traffic density and lane visibility to determine the safety 
 * **High Accuracy:** Achieved an **IoU of ~80%** globally, with >90% on critical classes like the road surface.
 * **Generalization:** Successfully tested on **urban environments**, demonstrating that the model learned transferable semantic features.
 
-## 🚀 Roadmap & Next Steps
+## Roadmap & Next Steps
 * **Massive Dataset Expansion:** Significantly increasing the volume of training data to improve the model's generalization capabilities and its ability to detect fine details like road signs.
 * **Environmental Robustness:** Broadening the training distribution to encompass adverse environmental conditions, such as low-light (night) and poor visibility (rain, fog).
 * **Sensor Fusion:** Integrating Radar/LiDAR data into the Expert System for increased reliability in scenarios where visual data is insufficient.
